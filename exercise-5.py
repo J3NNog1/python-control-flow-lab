@@ -15,7 +15,7 @@
 
 
 
-Using a while loop
+
 term = 0
 a = 0
 b = 1
